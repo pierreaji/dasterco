@@ -3,7 +3,9 @@
     <!-- Categories Section Begin -->
     <section class="categories">
         <div class="container-fluid">
-            <div class="row">
+
+<center><img src="<a href="https://ibb.co/WPYcTn2"><img src="https://i.ibb.co/hZtKqsm/banner.png" alt="" width="80%"></center>
+            {{-- <div class="row">
                 <div class="col-lg-6 p-0">
                     <div class="categories__item categories__large__item set-bg"
                         data-setbg="{{ asset('me') }}/img/goku.png">
@@ -31,7 +33,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </section>
     <!-- Categories Section End -->
 
@@ -41,7 +43,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4">
                     <div class="section-title">
-                        <h4>New product</h4>
+                        <h4>DASTERR CO PRODUCTS</h4>
                     </div>
                 </div>
                 <div class="col-lg-8 col-md-8">
